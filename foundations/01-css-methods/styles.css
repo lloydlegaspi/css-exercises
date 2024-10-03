@@ -1,0 +1,11 @@
+div {
+    background-color: red;
+    color: white;
+    border: 1px solid #ccc;
+    font-size: 32px;
+    font-family: Arial, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;  
+}
